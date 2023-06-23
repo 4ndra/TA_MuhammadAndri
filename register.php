@@ -18,11 +18,6 @@
               <hr>
                 
                 <div class="form-group">
-                  <label>Nama Lengkap</label>
-                  <input type="text" class="form-control" id="nama_lengkap" placeholder="Masukkan Nama Lengkap">
-                </div>
-
-                <div class="form-group">
                   <label>Username</label>
                   <input type="text" class="form-control" id="username" placeholder="Masukkan Username">
                 </div>
